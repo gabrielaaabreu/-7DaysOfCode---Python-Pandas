@@ -3,9 +3,10 @@ Desafio proposto pela Alura e elaborado por Francisco Foz.
 [Link para inscrição nos desafios.](https://7daysofcode.io/)
 
 ## Objetivo
-Explorar dados  de empréstimos dos acervos do sistema de bibliotecas da UFRN para treinar habilidades de manipulação, visualização e análise de dados utilizando Python Pandas.
+Explorar dados  de empréstimos dos acervos do sistema de bibliotecas da UFRN para treinar habilidades de manipulação, visualização e análise de dados utilizando a biblioteca Pandas.
 
-### Dia 1 - Coleta e organização dos dados
+## Passos
+### Dia 1 
 Coleta e organização dos dados sobre os empréstimos e os exemplares disponíveis.
 
 ### Dia 2
